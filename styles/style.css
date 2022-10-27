@@ -1,0 +1,18 @@
+header{
+    background-color: blue;
+    display: flex ;
+    justify-content: space-between ;
+}
+ul{
+	display: flex;
+}
+a{
+	color: white;
+	margin: 24px;
+}
+.text {
+	display: flex;
+	flex-wrap: wrap-reverse;
+	align-items: center;
+	justify-content: space-between;
+}
